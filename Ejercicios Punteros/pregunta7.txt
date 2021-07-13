@@ -1,0 +1,2 @@
+_new : reserva el número de bytes solicitado por la declaración.
+_delete: libera un bloque de bytes reservado con anterioridad.

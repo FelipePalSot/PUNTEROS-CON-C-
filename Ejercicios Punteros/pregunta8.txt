@@ -1,0 +1,1 @@
+Almacena la direccion de memoria de una variable
